@@ -7,6 +7,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## To Run the project
+
+Download the project and open the route in a terminal, then run:
+
+    npm install && npm run dev
+
+Then
+
+    php arstisan serve
+
+Next run your mysql instance and import the DB included in root project directory, you can register new user to useful the app, you not be use the app otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
