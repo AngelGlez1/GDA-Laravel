@@ -13,7 +13,7 @@ Download the project and open the route in a terminal, then run:
 
     npm install && npm run dev
 
-Then
+Also
 
     php arstisan serve
 
